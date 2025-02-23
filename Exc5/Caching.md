@@ -37,6 +37,6 @@ Write Behind
 
  
 [Диаграмма](./Diagrams/Sequence.drawio) 
-[Диаграмма](./Diagrams/Sequence.drawio.png) 
+[Диаграмма](./Diagrams/Sequence.drawio.pdf) 
 
 
